@@ -1,0 +1,12 @@
+linux_arif
+aix_joshna
+alc_sarath
+db_prasanna
+ora_yaswanth
+admin_himaram
+db2_seenivas
+dev_harshitha
+ad_muneendra
+prod_prudvi
+admin_vamsi
+db_issac
